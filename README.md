@@ -24,6 +24,9 @@ Tecnologías
 
 ---
 
+Link al repositorio: https://github.com/josecolombotk/PFO2_SistemaGesti-nareasAPIBaseDatos-
+
+---
 Ejecución
 
 Instalar dependencias:
